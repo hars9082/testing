@@ -1,6 +1,6 @@
 **Add User to AAD**
 
-**[Daemon Users in AAD for dev, devops, qa, prd]{.underline}**
+**[Daemon Users in AAD for dev, devops, qa, prd]**
 
  
 
